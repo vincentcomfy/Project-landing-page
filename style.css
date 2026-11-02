@@ -8,6 +8,22 @@ header {
     background-color: #1f2937
 }
 
+.upperHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headerNav ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.headerNav ul {
+    list-style: none;
+}
+
 .logo {
     font-size: 24px;
     color: #f9faf8;
