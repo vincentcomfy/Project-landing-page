@@ -1,0 +1,43 @@
+* {
+    font-family: 'Roboto', 'Sans Serif', "Serif";
+}
+
+header {
+    font-size: 24px;
+    color: #f9faf8;
+    background-color: #1f2937
+}
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.lowerHeaderLeft h1 {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+
+.lowerHeaderLeft {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.button .callToActionBox {
+    background-color: #3882f6;
+}
+
+.upperPanelHeader {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+}
+
+.midPanelQuote {
+    background-color: #e5e7eb;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 300;
+    font-style: italic;
+}
